@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 #/###################################################################
-#/ 					Kpacitor, Ensinanso Tecnologia					 
+#/ Kpacitor, Ensinanso Tecnologia					 
 #/###################################################################
 #/ Author: Elder Lucas de Oliveira Santos							 				
 #/ Data: 13 de Janeiro de 2015										 
@@ -10,10 +10,10 @@
 #/###################################################################
 #/ Arquivo: run_kapacitorpi.py 									     
 #/ Descricao: Controle das funcoes basicas do Frente, Tras, Esquerda 
-#/             e direita 											 
+#/			  e direita 											 
 #/																	 
 #/ Curso: Raspberry Pi: Primeiros Passos + IOT (Internet of things)	 
-#/ link: www.kpacitor.com/robokpacitopi								 
+#/ link: www.kpacitor.com/robokpacitorpi							 
 #/																	 
 #/###################################################################
 
